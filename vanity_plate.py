@@ -1,6 +1,5 @@
-# Generate numbers list programmatically
 numbers = [str(i) for i in range(10)]
-letters = [chr(i) for i in range(65, 91)]  # Capital letters A-Z
+letters = [chr(i) for i in range(65, 91)]
 
 plate = input("Please input vanity plate: ")
 
